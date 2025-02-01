@@ -12,7 +12,4 @@
 ![mohsen104's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohsen104&theme=react&hide_border=true)
 ![mohsen104's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen104&theme=react&show_icons=true&hide_border=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=mohsen104&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
