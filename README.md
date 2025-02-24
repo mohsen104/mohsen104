@@ -39,11 +39,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-# 📊 GitHub Stats:
-![mohsen104's Stats](https://github-readme-stats.vercel.app/api?username=mohsen104&theme=react&show_icons=true&hide_border=true&count_private=true)
-![mohsen104's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohsen104&theme=react&hide_border=true)
-![mohsen104's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen104&theme=react&show_icons=true&hide_border=true&layout=compact)
-
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
