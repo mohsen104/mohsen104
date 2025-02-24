@@ -9,7 +9,6 @@
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
@@ -39,6 +38,10 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+# 📊 GitHub Stats:
+![mohsen104's Stats](https://github-readme-stats.vercel.app/api?username=mohsen104&theme=react&show_icons=true&hide_border=true&count_private=true)
+![mohsen104's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohsen104&theme=react&hide_border=true)
+![mohsen104's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen104&theme=react&show_icons=true&hide_border=true&layout=compact)
+
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
