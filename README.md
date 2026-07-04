@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/mohsen104/mohsen104/snake-output/snake.svg" alt="Snake animation" />
+<img class="w-full" alt="An animation of pacman eating the github user contributions (like pacman game)" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/pacman.svg">
 
 ###
